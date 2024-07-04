@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a5270c7373671c2c195d",
+    "revision": "6baff65a43015203bc4c",
     "url": "/portfolio/static/css/main.91d3fd10.chunk.css"
   },
   {
-    "revision": "a5270c7373671c2c195d",
-    "url": "/portfolio/static/js/main.79a30da7.chunk.js"
+    "revision": "6baff65a43015203bc4c",
+    "url": "/portfolio/static/js/main.d1bdccdb.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/sklearn_genetic_opt.23273bc8.png"
   },
   {
-    "revision": "0928f3759e565a9b87ebd48e334e6028",
+    "revision": "091c34b0588ba233a0b6a2293d8498dd",
     "url": "/portfolio/index.html"
   }
 ];
