@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "807c4928acab6459ab6f",
+    "revision": "8dc6214b871245b49000",
     "url": "/portfolio/static/css/main.5f87d53f.chunk.css"
   },
   {
-    "revision": "807c4928acab6459ab6f",
-    "url": "/portfolio/static/js/main.737a45b2.chunk.js"
+    "revision": "8dc6214b871245b49000",
+    "url": "/portfolio/static/js/main.05003929.chunk.js"
   },
   {
     "revision": "53ebc025fca807d4dbea",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/fastapi_sklearn.f7d742fc.png"
   },
   {
-    "revision": "3b29a6fc24acd6b0c3d97e5bdfc3a17b",
+    "revision": "5fb05afdd9c26763a7ff9b5c2628d9ca",
     "url": "/portfolio/index.html"
   }
 ];
